@@ -1,5 +1,6 @@
 # Splendid-Resort
 It's a Resort Management System project using Python, Tkinter GUI. 
+Youtube link: https://www.youtube.com/watch?v=BcqilnZGvI8&list=PL3noNeg1H2jz2Zj-krvy6w0QALGRbP_w7&index=3
 ![Screenshot (4321)](https://github.com/user-attachments/assets/fcbb8780-127c-4822-add8-fffd8c07926b)
 Here, each customer has a unique ref number, and by providing the information, admin can add a new guest. Admin can also update,delete and reset the information. Admin can also search guest by their ref number or Phone number.
 
