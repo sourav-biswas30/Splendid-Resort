@@ -7,3 +7,4 @@ Here, each customer has a unique ref number, and by providing the information, a
 ![Screenshot (4320)](https://github.com/user-attachments/assets/af87c22b-d591-44cd-9130-e232ac9c98f9)
 ![Screenshot (4322)](https://github.com/user-attachments/assets/719cd678-1fbb-422b-b05e-bab90d732fe3)
 Here, the booking is done depending on the availability of rooms and dates. Based on the check-in and check-out time the number of days is calculated and considering the per-day price of rooms,meal cost, and tax, the total bill is also generated. eventually, booking takes place. 
+
